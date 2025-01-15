@@ -1,12 +1,12 @@
-#Requirements to run
+# Requirements to run
 - Python
 - Node
 
-#Setting Up the Frontend
+# Setting Up the Frontend
 1. Run `npm install`.
 2. Run `npm run dev` for development mode.
 
-#Setting up the websocket server
+# Setting up the websocket server
 1. Make sure the necessary dependencies are installed and that it has a venv.
 2. Run test.py.
 
