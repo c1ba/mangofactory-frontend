@@ -1,7 +1,7 @@
 <div class="storage"></div>
 <style>
     .storage {
-        background: url('https://minecraft.wiki/images/Chest.gif?ca959');
+        background: url('/chest.gif');
         width: 350px;
         height: 250px;
         background-size: cover;

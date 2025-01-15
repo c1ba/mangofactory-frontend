@@ -65,9 +65,9 @@
 <section>
 	<div class="container">
 		<Miner />
-		<ItemTransfer imageUrl='https://minecraft.wiki/images/thumb/Iron_Ore_JE6_BE4.png/150px-Iron_Ore_JE6_BE4.png?b1fb3' shouldMove={isOreTransfering}/>
+		<ItemTransfer imageUrl='/iron_ore.png' shouldMove={isOreTransfering}/>
 		<Smelter />
-		<ItemTransfer imageUrl='https://minecraft.wiki/images/Iron_Ingot_JE3_BE2.png?849cb' shouldMove={isIngotTransfering}/>
+		<ItemTransfer imageUrl='/iron_ingot.png' shouldMove={isIngotTransfering}/>
 		<Blacksmith />
 		<ItemTransfer imageUrl='/pipe.png' shouldMove={isPipeTransfering}/>
 		<Storage />
